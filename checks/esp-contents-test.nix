@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # checks/esp-contents-test.nix
 #
 # BUILD-TIME, no VM: proves `lib/efi-disk.nix` actually places the right

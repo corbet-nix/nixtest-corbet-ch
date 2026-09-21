@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # checks/eval-tests.nix
 #
 # EVAL-TIME tests only: the shape and validation logic of both fixtures,

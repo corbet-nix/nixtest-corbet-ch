@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # lib/purity.nix -- `lib.mkPurityChecks`
 #
 # The third fixture in this repo, and the only one that tests a CALLER'S OWN MODULE rather than

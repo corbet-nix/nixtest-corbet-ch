@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # checks/default.nix
 #
 # Wires this project's test files into `nix flake check`:

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # checks/fixtures/impure-table.nix
 #
 # The DECOY TABLE: a module that looks like a fact table and is not one. It exists solely so

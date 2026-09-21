@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 {
   description = "nixtest - shared NixOS test FIXTURES for this project family: a raw-disk/UEFI-boot harness and a synthetic broken-disk harness, neither of them a runner.";
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # checks/fixtures/pure-table.nix
 #
 # A synthetic table module that IS pure data, used only to prove `lib/purity.nix` stays silent on

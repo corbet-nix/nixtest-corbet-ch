@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # checks/purity-fixture-test.nix
 #
 # `lib/purity.nix`'s own self-test, in both directions -- the discipline this repo applies to every

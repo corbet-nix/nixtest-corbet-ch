@@ -81,7 +81,7 @@ nixrescue can ever end up depending on *it* depending on *them*.
 
 ```nix
 {
-  inputs.nixtest.url = "github:julian-corbet/nixtest-corbet-ch";
+  inputs.nixtest.url = "github:corbet-nix/nixtest-corbet-ch";
 }
 ```
 
@@ -141,3 +141,7 @@ squashed onto a single slot, and booted through real OVMF firmware; the
 same VM then formats and rediscovers a synthetic broken disk via
 `mkBrokenDisk`, once it's up). A fixture library nobody has exercised is a
 liability, not an asset.
+
+## Licence
+
+Outbound licence is `MIT OR Apache-2.0`. See `LICENSE-MIT` and `LICENSE-APACHE`; every source file carries `SPDX-License-Identifier: MIT OR Apache-2.0`.

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # checks/fixtures-boot-vm-test.nix
 #
 # THE PROOF THAT MATTERS: a fixture library nobody has ever exercised is a

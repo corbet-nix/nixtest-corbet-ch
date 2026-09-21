@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # lib/broken-disk.nix
 #
 # THE OTHER REUSABLE FIXTURE, of a genuinely different shape than

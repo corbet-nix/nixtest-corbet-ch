@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # lib/efi-disk.nix
 #
 # THE FIXTURE, lifted out of nixrescue's own UEFI boot test
